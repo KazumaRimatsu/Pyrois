@@ -2,7 +2,7 @@
 <img src="icon.png" width="15%" alt="Logo">
 <h1>Pyrois</h1>
 
-<p>佩洛伊斯</p>
+<p>佩 洛 伊 斯</p>
 
 
 [![星标](https://img.shields.io/github/stars/KazumaRimatsu/Pyrois?style=for-the-badge&color=orange&label=%E6%98%9F%E6%A0%87)](https://github.com/Class-Widgets/plugin-template-v2)
