@@ -1,12 +1,12 @@
 {
-  "id": "com.classwidgets.plugin-template",
-  "name": "插件开发模板",
-  "version": "0.4.2",
+  "id": "com.smk.plugin",
+  "name": "青·溟·剑",
+  "version": "0.0.1",
   "api_version": "~=0.4.2",
   "entry": "main.py",
-  "author": "RinLit",
-  "description": "支持 Class Widgets 2 插件的开发模板",
-  "url": "https://github.com/Class-Widgets/plugin-template-v2/",
+  "author": "Cika",
+  "description": "喵喵喵",
+  "url": "https://github.com/KazumaRimatsu/Seimei-Ken",
   "readme": "README.md",
   "icon": "icon.png"
 }
